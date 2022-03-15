@@ -57,7 +57,7 @@ int main(int argc, const char * argv[]) {
         }
     }*/
         
-        /*!!!!!!!!TWO METHODS ARE MENTIONNED IN THIS CODE, THE ONE COMMENTED IS LESS EFFICIENT THE OTHER ONE AND IT ENCIPER SIMILAR LETTERS BY SAME LETTERS!!!!!!!*/
+        /*!!!!!!!!TWO METHODS ARE MENTIONNED IN THIS CODE, THE ONE COMMENTED IS LESS EFFICIENT THAN THE OTHER ONE AND IT ENCIPER SIMILAR LETTERS BY SAME LETTERS!!!!!!!*/
         
     cout << "The text you inserted is : " << texttoo << endl;
     cout << "The encrypted version of the text is : " << endl;
